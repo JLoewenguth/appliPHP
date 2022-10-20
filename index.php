@@ -38,12 +38,12 @@
             </p>
         </form></div>
     </body></div>
-
+<!-- lien vers le récapitulatif produits -->
 </br><a href="recap.php">Récapitulatif des produits</a>
 </html>
 
 <?php
-
+/*echo compteProducts());*/
 
 
 ?>

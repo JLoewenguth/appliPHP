@@ -55,6 +55,7 @@
             "</table>";
         }
     ?>
+    <!-- lien vers la page commande -->
     <p><a href="index.php">Retour à la page des commandes</a></p>
 
 </body>

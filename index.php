@@ -39,6 +39,7 @@
         </form></div>
     </body></div>
 
+</br><a href="recap.php">Récapitulatif des produits</a>
 </html>
 
 <?php

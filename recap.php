@@ -55,7 +55,7 @@
             "</table>";
         }
     ?>
-    <p><a href="http://localhost:81/jerome_l/POO/appliPHP/recap.php">link text</a></p>
+    <p><a href="index.php">Retour à la page des commandes</a></p>
 
 </body>
 

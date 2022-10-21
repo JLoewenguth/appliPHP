@@ -43,12 +43,10 @@
 </html>
 
 <?php
-/*echo compteProducts();*/
 
 //message de traitement.php
 if(isset($_GET['Message'])){
     echo $_GET['Message'];
 }
-
 
 ?>

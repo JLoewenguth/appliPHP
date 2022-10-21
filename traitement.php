@@ -23,5 +23,4 @@
 
     header("Location:index.php?Message=".$Message);
     die;       //retour à l'index
-
 ?>
